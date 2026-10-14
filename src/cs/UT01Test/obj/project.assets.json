@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/daw/UT01Test/UT01Test.csproj",
+      "projectUniqueName": "/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/UT01Test/UT01Test.csproj",
       "projectName": "UT01Test",
-      "projectPath": "/home/daw/UT01Test/UT01Test.csproj",
+      "projectPath": "/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/UT01Test/UT01Test.csproj",
       "packagesPath": "/home/daw/.nuget/packages/",
-      "outputPath": "/home/daw/UT01Test/obj/",
+      "outputPath": "/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/UT01Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/daw/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/daw/src/cs/hola.csproj": {}
+    "/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/test/hola.csproj": {}
   },
   "projects": {
-    "/home/daw/src/cs/hola.csproj": {
+    "/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/test/hola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/daw/src/cs/hola.csproj",
+        "projectUniqueName": "/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/test/hola.csproj",
         "projectName": "hola",
-        "projectPath": "/home/daw/src/cs/hola.csproj",
+        "projectPath": "/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/test/hola.csproj",
         "packagesPath": "/home/daw/.nuget/packages/",
-        "outputPath": "/home/daw/src/cs/obj/",
+        "outputPath": "/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/daw/.nuget/NuGet/NuGet.Config"

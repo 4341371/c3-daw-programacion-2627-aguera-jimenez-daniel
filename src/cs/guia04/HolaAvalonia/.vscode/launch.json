@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Avalonia: HolaAvalonia",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/HolaAvalonia.csproj"
+        }
+    ]
+}

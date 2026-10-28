@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HolaCS_10_4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92b4fc0d48bec92aefcdb4b42f8529fa6936268")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+219f1724ffc0e6626b3d7148850e58e401db1655")]
 [assembly: System.Reflection.AssemblyProductAttribute("HolaCS_10_4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HolaCS_10_4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

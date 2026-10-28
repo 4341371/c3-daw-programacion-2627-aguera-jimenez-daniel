@@ -1,0 +1,14 @@
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/bin/Debug/net10.0/HolaCS_10_4
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/bin/Debug/net10.0/HolaCS_10_4.deps.json
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/bin/Debug/net10.0/HolaCS_10_4.runtimeconfig.json
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/bin/Debug/net10.0/HolaCS_10_4.dll
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/bin/Debug/net10.0/HolaCS_10_4.pdb
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/HolaCS_10_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/HolaCS_10_4.AssemblyInfoInputs.cache
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/HolaCS_10_4.AssemblyInfo.cs
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/HolaCS_10_4.csproj.CoreCompileInputs.cache
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/HolaCS_10_4.dll
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/refint/HolaCS_10_4.dll
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/HolaCS_10_4.pdb
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/HolaCS_10_4.genruntimeconfig.cache
+/home/daw/Programacion/c3-daw-programacion-2627-aguera-jimenez-daniel/src/cs/ut01/actividad_1_4/obj/Debug/net10.0/ref/HolaCS_10_4.dll

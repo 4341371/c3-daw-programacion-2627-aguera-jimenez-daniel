@@ -1,0 +1,14 @@
+/home/daw/UT01Test/bin/Debug/net10.0/UT01Test
+/home/daw/UT01Test/bin/Debug/net10.0/UT01Test.deps.json
+/home/daw/UT01Test/bin/Debug/net10.0/UT01Test.runtimeconfig.json
+/home/daw/UT01Test/bin/Debug/net10.0/UT01Test.dll
+/home/daw/UT01Test/bin/Debug/net10.0/UT01Test.pdb
+/home/daw/UT01Test/obj/Debug/net10.0/UT01Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/daw/UT01Test/obj/Debug/net10.0/UT01Test.AssemblyInfoInputs.cache
+/home/daw/UT01Test/obj/Debug/net10.0/UT01Test.AssemblyInfo.cs
+/home/daw/UT01Test/obj/Debug/net10.0/UT01Test.csproj.CoreCompileInputs.cache
+/home/daw/UT01Test/obj/Debug/net10.0/UT01Test.dll
+/home/daw/UT01Test/obj/Debug/net10.0/refint/UT01Test.dll
+/home/daw/UT01Test/obj/Debug/net10.0/UT01Test.pdb
+/home/daw/UT01Test/obj/Debug/net10.0/UT01Test.genruntimeconfig.cache
+/home/daw/UT01Test/obj/Debug/net10.0/ref/UT01Test.dll

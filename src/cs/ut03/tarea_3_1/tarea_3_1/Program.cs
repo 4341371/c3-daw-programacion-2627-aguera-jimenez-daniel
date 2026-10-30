@@ -61,6 +61,26 @@
 
              //apartado e - usando un bucle do-while, desarrolla aquí el código que pide el enunciado:
            
+            Console.WriteLine("--- APARTADO E ---");
+            string? palabra;
+            string palabrasAcumuladas = "";
+
+            // e.1: Bucle do-while mientras la palabra no sea la cadena vacía ("")
+            do
+            {
+                Console.Write("Introduce una palabra (o presiona Enter para terminar): ");
+                palabra = Console.ReadLine();
+
+                if (!string.IsNullOrEmpty(palabra))
+                {
+                    // e.2: Acumula las palabras separadas por espacio
+                    palabrasAcumuladas += palabra + " ";
+                }
+            } while (!string.IsNullOrEmpty(palabra));
+
+            // e.2: Muestra todas las palabras introducidas al finalizar
+            Console.WriteLine($"Palabras introducidas: {palabrasAcumuladas.Trim()}");
+            Console.WriteLine();
 
 
              //apartado f - usando diferentes condicionales y bucles, con posible anidación, desarrolla aquí el código que pide el enunciado:

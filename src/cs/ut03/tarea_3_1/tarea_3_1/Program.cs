@@ -29,7 +29,17 @@
 
 
               //apartado c - usando un bucle for, desarrolla aquí el código que pide el enunciado:
-          
+             Console.WriteLine("--- APARTADO C ---");
+            // c.2: Solicita el número desde el que comienza la cuenta atrás
+            Console.Write("Introduce el número de inicio para la cuenta atrás: ");
+            int inicioCuenta = int.Parse(Console.ReadLine() ?? "10");
+
+            // c.1 y c.2: Cuenta atrás desde el número introducido hasta 0
+            for (int i = inicioCuenta; i >= 0; i--)
+            {
+                Console.WriteLine(i);
+            }
+            Console.WriteLine();
 
 
              //apartado d - usando bucles while, desarrolla aquí el código que pide el enunciado:

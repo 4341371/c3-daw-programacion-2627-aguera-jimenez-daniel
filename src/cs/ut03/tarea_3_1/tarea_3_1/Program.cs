@@ -43,7 +43,20 @@
 
 
              //apartado d - usando bucles while, desarrolla aquí el código que pide el enunciado:
-           
+            Console.WriteLine("--- APARTADO D ---");
+            // d.1: Solicita un número y multiplica por 10 mientras sea menor que 10000
+            Console.Write("Introduce un número entero: ");
+            int numeroD = int.Parse(Console.ReadLine() ?? "0");
+
+            while (numeroD < 10000)
+            {
+                Console.WriteLine(numeroD);
+                numeroD *= 10;
+            }
+
+            // d.2: Muestra el mensaje al finalizar
+            Console.WriteLine($"Bucle finalizado con el valor {numeroD}");
+            Console.WriteLine();
 
 
              //apartado e - usando un bucle do-while, desarrolla aquí el código que pide el enunciado:

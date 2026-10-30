@@ -85,7 +85,31 @@
 
              //apartado f - usando diferentes condicionales y bucles, con posible anidación, desarrolla aquí el código que pide el enunciado:
 
-           
+            Console.WriteLine("--- APARTADO F ---");
+            // f.1, f.2 y f.3: Recorrer del 1 al 20, aplicar formato de dos dígitos y switch-case
+            for (int i = 1; i <= 20; i++)
+            {
+                // f.2: Formato de dos dígitos ('01', '02', ..., '10', '11')
+                string numeroFormateado = i.ToString("00");
+
+                // f.3: Estructura switch-case para '01', '10' y '20'
+                switch (numeroFormateado)
+                {
+                    case "01":
+                        Console.WriteLine($"{numeroFormateado} primero");
+                        break;
+                    case "10":
+                        Console.WriteLine($"{numeroFormateado} mitad");
+                        break;
+                    case "20":
+                        Console.WriteLine($"{numeroFormateado} último");
+                        break;
+                    default:
+                        Console.WriteLine(numeroFormateado);
+                        break;
+                }
+            }
+            Console.WriteLine();
 
 
              //apartado g  - usando condicionales, desarrolla aquí el código que pide el enunciado:

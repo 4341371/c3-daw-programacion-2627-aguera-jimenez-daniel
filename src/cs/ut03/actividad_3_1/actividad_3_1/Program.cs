@@ -20,7 +20,9 @@ class Program
         }
         else
         {
-            Console.WriteLine($"INCORRECTO: deberías haber indicado {num2} y {num1}");
+          Console.WriteLine($"INCORRECTO: deberías haber indicado {num2} y {num1}");
         }
+
+        
     }
-}
+} 

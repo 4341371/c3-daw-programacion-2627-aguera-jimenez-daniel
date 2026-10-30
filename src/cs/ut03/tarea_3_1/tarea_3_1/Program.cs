@@ -113,6 +113,26 @@
 
 
              //apartado g  - usando condicionales, desarrolla aquí el código que pide el enunciado:
-         
+            Console.WriteLine("--- APARTADO G ---");
+            int repeticiones = 0;
+
+            // g.1, g.2 y g.3: Capturar excepciones y usar el bloque 'finally'
+            try
+            {
+                Console.Write("Indique el número de repeticiones: ");
+                repeticiones = int.Parse(Console.ReadLine() ?? "");
+            }
+            catch (Exception)
+            {
+                // g.1 y g.2: Mensaje de error y asignación de 0
+                Console.WriteLine("El número introducido no es válido");
+                repeticiones = 0;
+            }
+            finally
+            {
+                // g.3: Instrucción garantizada
+                Console.WriteLine($"El número de repeticiones ha sido: {repeticiones}");
+            }
+        }
     }
 }

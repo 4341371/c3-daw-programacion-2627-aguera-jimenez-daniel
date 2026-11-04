@@ -5,19 +5,9 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Introduce una palabra");
-        string palabra = Console.ReadLine() ?? string.Empty;
+        string palabra = Console.ReadLine();
         Console.WriteLine("Introduce un número de repeticiones:");
-        int repeticiones = Convert.ToInt32(Console.ReadLine());
-
-        for (int i = 0; i < repeticiones; i++)
-        {
-            Console.Write(palabra);
-            if (i < repeticiones - 1)
-            {
-                Console.Write(",");
-            }
-        }
-
-        Console.WriteLine();
+        int repeticiones = int.Parse(Console.ReadLine());
+        //PROFESOR::completa el programa para que cumpla con las especificaciones del enunciado
     }
 }

@@ -2,12 +2,10 @@ namespace actividad_2_4;
 
 class Equipo
 {
-    public string nombre = string.Empty;
+    public string nombre;
     public int jugadores;
-
-    public void Fichar(Jugador jugador)
+    public void fichar(Jugador jugador)
     {
-        jugador.equipo = this;
-        jugadores++;
+        
     }
 }
